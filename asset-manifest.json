@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Jaci26cx/react-exercise-app/static/css/main.194497a5.css",
+    "main.js": "/Jaci26cx/react-exercise-app/static/js/main.51ffe6ca.js",
+    "static/js/453.4bb9c13b.chunk.js": "/Jaci26cx/react-exercise-app/static/js/453.4bb9c13b.chunk.js",
+    "index.html": "/Jaci26cx/react-exercise-app/index.html",
+    "main.194497a5.css.map": "/Jaci26cx/react-exercise-app/static/css/main.194497a5.css.map",
+    "main.51ffe6ca.js.map": "/Jaci26cx/react-exercise-app/static/js/main.51ffe6ca.js.map",
+    "453.4bb9c13b.chunk.js.map": "/Jaci26cx/react-exercise-app/static/js/453.4bb9c13b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.194497a5.css",
+    "static/js/main.51ffe6ca.js"
+  ]
+}
